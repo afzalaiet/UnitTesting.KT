@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.KT.API", "UnitTesting.KT.API.csproj", "{4EBC6FCB-131D-4EFD-BCF9-AC805171960D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.KT.API.Tests", "..\UnitTesting.KT.API.Tests\UnitTesting.KT.API.Tests.csproj", "{0A0625DB-5E87-40E1-9124-2A04F45C0424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBC6FCB-131D-4EFD-BCF9-AC805171960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBC6FCB-131D-4EFD-BCF9-AC805171960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBC6FCB-131D-4EFD-BCF9-AC805171960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBC6FCB-131D-4EFD-BCF9-AC805171960D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0625DB-5E87-40E1-9124-2A04F45C0424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0625DB-5E87-40E1-9124-2A04F45C0424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0625DB-5E87-40E1-9124-2A04F45C0424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0625DB-5E87-40E1-9124-2A04F45C0424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E8CE33-AC27-4E11-AB21-E943D916A9FE}
+	EndGlobalSection
+EndGlobal
